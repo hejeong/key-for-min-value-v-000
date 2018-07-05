@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   min_key = ""
-  prev_value = nil
+  prev_value = 
   name_hash.each do |key, value|
     if value < prev_value
   end
